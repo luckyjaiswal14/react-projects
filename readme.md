@@ -1,4 +1,3 @@
-React project collection showcasing 10 interactive demos, from counters and routing to theme switching and context patterns.
-Each app is built with Vite, Tailwind, and modern hooks for fast learning and small-scale experimentation.
+React project collection with beginner-to-intermediate apps: counters, routing, theme toggler, password generator, currency converter, Tailwind UI examples, custom React exploration, reusable hooks, and practical state patterns for modern frontend learning.
 
-This repo is ideal for beginners exploring component design, custom hooks, and UI state handling across beginner-friendly React examples with reusable layouts, theme control, and deployment readiness.
+Designed for learning reusable component design, hooks, state management, context, props handling, styling, Tailwind, Vite setup, and real app structure in a concise hands-on mini project format for frontend developers.
